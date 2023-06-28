@@ -9,4 +9,4 @@ Initial Visualization shows the following:
 After creating a prediction dataframe using pandas and using a model based on linear regression, Following is the visualization:
 ![image](https://github.com/Siddhantrao/Sales-forecast/assets/24964631/cbbf7b86-c637-4245-ae51-d0e1c9bcd1d2)
 
-We can see the prediction is actually very close
+After segregating the data and subjecting it to the test data, We can see the prediction based on the model is actually very close
